@@ -1,7 +1,7 @@
 # checkpoint6-crud-wpf-mysql
 **Checkpoint 6 — Programação em C#**  
 FIAP — Engenharia de Software  
-> Aluno: Miguel Parrado | RM: 554007
+Aluno: Miguel Parrado | RM: 554007
 
 Sistema CRUD de gerenciamento de alunos desenvolvido em **C# WPF** com conexão ao **MySQL** via **ADO.NET**.
 
